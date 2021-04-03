@@ -8,5 +8,3 @@ So... Yeah, my Website. Pretty barebones for now, but I hope to make it better i
 > Scheduled completion: Someday...
 
 Made with love, by @Intron014 
-
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fintron014com%2Fintron014com.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fintron014com%2Fintron014com.github.io?ref=badge_shield)

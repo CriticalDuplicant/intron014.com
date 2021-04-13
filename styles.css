@@ -20,6 +20,20 @@ a:visited {
   padding: 1em;
   font-size: xx-large;
 }
+.copyright{
+  color: grey;
+  text-align: center;
+  position: relative;
+  bottom: 3px;
+  font-size: x-small;
+}
+.copimage{
+  color: grey;
+  text-align: center;
+  position: relative;
+  bottom: 1px;
+}
+
 .material-icons {
   font-family: 'Material Icons';
   font-weight: normal;
